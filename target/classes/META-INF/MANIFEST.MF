@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: KotlinSpringMVCRequestMapping
+Implementation-Version: 0.0.1
+Built-By: kamranyaseen
+Implementation-Vendor-Id: com.kamranyaseen.requestmapping
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/KotlinSpring
+ MVCRequestMapping/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
